@@ -1,0 +1,7 @@
+to host on GH pages first 
+1. go to the repository
+2. click on settings 
+3. on the left scroll down to pages 
+4. Under branch click on the dopdown that says none and select main, then click save
+5. wait a few minutes
+6. go back to page tab and there will be link
